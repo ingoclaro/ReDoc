@@ -1,10 +1,10 @@
 {
-  "name": "redoc",
+  "name": "@ingoclaro/redoc",
   "version": "2.0.0-alpha.18",
   "description": "ReDoc",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Rebilly/ReDoc"
+    "url": "git://github.com/ingoclaro/ReDoc"
   },
   "engines": {
     "node": ">=6.9",
@@ -131,7 +131,7 @@
     "openapi-sampler": "1.0.0-beta.9",
     "perfect-scrollbar": "^1.3.0",
     "polished": "^1.9.2",
-    "prismjs": "^1.12.2",
+    "prismjs": "1.13.0",
     "prop-types": "^15.6.0",
     "react-dropdown": "^1.3.0",
     "react-hot-loader": "^4.0.0",
